@@ -60,9 +60,15 @@ CoursePRO is a comprehensive course management system designed to simplify the a
 - `uploads/`: Directory for file uploads.
 - `video/`: Directory for video files.
 
+## Outputs
+![image](https://github.com/user-attachments/assets/65211287-778b-4be3-8187-7a228b144ed4)
+![image](https://github.com/user-attachments/assets/d74e23f4-81e5-4ae4-9492-b5f4ee722aeb)
+![image](https://github.com/user-attachments/assets/ee5b7940-64f6-47ee-9045-2fe89bd76409)
+![image](https://github.com/user-attachments/assets/32aff9f2-5df0-4bd4-9537-0d3590104a27)
+
 
 ## Acknowledgements
-
+- [Tutorials](https://youtube.com/playlist?list=PLbGui_ZYuhiihdSW-kg50d0L4or1DWvko&si=zu-lfDtrgYPN7Nfb) for video tutorials.
 - [PHP](https://www.php.net/) for providing the server-side scripting language.
 - [MySQL](https://www.mysql.com/) for the database management system.
 - [Apache](https://httpd.apache.org/) for the web server.
